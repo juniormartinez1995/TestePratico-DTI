@@ -12,3 +12,4 @@
 
 * Quando executado, tem-se a premissa que a entrada de dados deve ser no formato <data> <quantidade de cães pequenos> <quantidade de cães grandes>
 * O programa aceita a data apenas no formato DD/MM/YYYY, sem necessidade de especificar o horário
+* O restante da entrada referente a quantidade de números de cães só aceita números inteiros
