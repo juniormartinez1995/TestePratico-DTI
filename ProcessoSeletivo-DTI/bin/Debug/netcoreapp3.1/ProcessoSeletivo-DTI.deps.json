@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProcessoSeletivo-DTI/1.0.0": {
+        "runtime": {
+          "ProcessoSeletivo-DTI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcessoSeletivo-DTI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

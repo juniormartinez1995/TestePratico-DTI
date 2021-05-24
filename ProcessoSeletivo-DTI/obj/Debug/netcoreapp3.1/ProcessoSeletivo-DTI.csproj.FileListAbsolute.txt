@@ -1,0 +1,13 @@
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.exe
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.deps.json
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.runtimeconfig.json
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.runtimeconfig.dev.json
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.dll
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\bin\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.pdb
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.csprojAssemblyReference.cache
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.AssemblyInfoInputs.cache
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.AssemblyInfo.cs
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.csproj.CoreCompileInputs.cache
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.dll
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.pdb
+C:\Users\junin\source\repos\ProcessoSeletivo-DTI\ProcessoSeletivo-DTI\obj\Debug\netcoreapp3.1\ProcessoSeletivo-DTI.genruntimeconfig.cache
